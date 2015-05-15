@@ -4,7 +4,7 @@ CA_CERT=ca.pem
 CA_KEY=ca-key.pem
 CLIENT_CERT=cert.pem
 CLIENT_KEY=key.pem
-SERVER_CERT=server-cert.pem
+SERVER_CERT=server.pem
 SERVER_KEY=server-key.pem
 PASSPHRASE=changeit
 
